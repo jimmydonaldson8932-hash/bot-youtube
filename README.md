@@ -80,5 +80,5 @@ Automate safe, human-like subscription workflows on YouTube for testing, QA, and
 
 ### Clone
 ```bash
-git clone "https://github.com/yourusername/youtube sub bot"
-cd "youtube sub bot"
+git clone "https://github.com/jimmydonaldson8932-hash/bot-youtube"
+cd "bot-youtube"
